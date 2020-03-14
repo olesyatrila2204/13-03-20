@@ -1,8 +1,6 @@
 package com.company.mar.fri;
 
 
-import java.util.List;
-
 /**
  *
  *
@@ -23,6 +21,8 @@ public class StringWork {
      * @return
      */
     public String[] capitalize(String text) {
-        return null;
+        return new String[]{"raz", "dva"};
+
+
     }
 }
