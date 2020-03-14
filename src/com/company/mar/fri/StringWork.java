@@ -22,7 +22,9 @@ public class StringWork {
      */
     public String[] capitalize(String text) {
         return new String[]{"raz", "dva"};
+    }
 
+    public void foo() {
 
     }
 }
